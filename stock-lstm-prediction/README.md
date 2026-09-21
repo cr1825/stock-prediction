@@ -1,8 +1,6 @@
 # 📈 Stock Price Prediction with a Stacked LSTM
 
-[!\[CI](https://github.com/cr1825/stock-lstm-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/stock-lstm-prediction/actions)
-!\[Python](https://img.shields.io/badge/python-3.10--3.12-blue)
-!\[License](https://img.shields.io/badge/license-MIT-green)
+
 
 An end-to-end machine-learning project that downloads market data with **yfinance**, engineers
 technical indicators, trains a **stacked LSTM** in TensorFlow/Keras to forecast the next
